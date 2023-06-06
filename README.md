@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LaibaWaheed
-- 👀 I’m interested in Web Designing and Graphic Designing
-- 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on Graphic Designing companies
+- 👀 I’m Software Engineer
+- 💞️ I’m looking to collaborate on Development projects
 - 📫 How to reach me laibwaheed2001@gmail.com
 
 <!---
